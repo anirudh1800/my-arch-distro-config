@@ -1,0 +1,1 @@
+pacman -Qqe > pkglist.txt  
