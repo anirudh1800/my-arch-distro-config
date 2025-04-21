@@ -59,6 +59,7 @@ firewalld
 gedit
 git
 glances
+gnome-calculator
 gnome-keyring
 gnome-screenshot
 gnome-terminal
