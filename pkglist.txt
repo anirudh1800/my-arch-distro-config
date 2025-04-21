@@ -118,7 +118,6 @@ networkmanager-openconnect
 networkmanager-openvpn
 nfs-utils
 nilfs-utils
-nordpass-bin
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
