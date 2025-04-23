@@ -222,6 +222,7 @@ upower
 usb_modeswitch
 usbutils
 vi
+vulkan-radeon
 wacomtablet
 welcome
 wget
