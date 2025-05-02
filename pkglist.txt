@@ -1,4 +1,5 @@
 accountsservice
+acpi_call
 alsa-firmware
 alsa-plugins
 alsa-utils
@@ -6,6 +7,7 @@ amd-ucode
 appmenu-gtk-module
 arc-gtk-theme-eos
 aspell
+asusctl
 b43-fwcutter
 base
 base-devel
@@ -19,9 +21,6 @@ breeze
 breeze-gtk
 breeze-plymouth
 btrfs-progs
-budgie-control-center
-budgie-desktop-view
-budgie-screensaver
 cantarell-fonts
 chromium
 code
