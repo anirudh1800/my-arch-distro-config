@@ -1,3 +1,4 @@
 eos-update
 yay -S --needed - < pkglist.txt
-sudo systemctl enable snapd --now
+xargs -a flatpaks.txt flatpak install -y
+xargs -a extensions.txt code --install-extension 
