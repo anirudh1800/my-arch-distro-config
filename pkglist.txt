@@ -63,6 +63,7 @@ firewalld
 flatpak-kcm
 gedit
 git
+github-cli
 glances
 gnome-screenshot
 gnome-terminal
@@ -74,6 +75,7 @@ gst-plugins-ugly
 gvfs
 haveged
 hdparm
+helix
 hwdetect
 hwinfo
 inetutils
@@ -125,6 +127,7 @@ man-pages
 mdadm
 meld
 mesa-utils
+microsoft-edge-stable-bin
 milou
 modemmanager
 mpv
@@ -200,14 +203,15 @@ reflector
 reflector-simple
 rsync
 rtkit
+rust-analyzer
 rustup
 s-nail
 sddm-kcm
 sg3_utils
 smartmontools
-snapd
 sof-firmware
 spectacle
+sublime-text-4
 sudo
 sysfsutils
 systemd-sysvcompat
@@ -248,4 +252,3 @@ xorg-xkill
 xorg-xrandr
 xterm
 yay
-zed
