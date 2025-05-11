@@ -73,6 +73,7 @@ gst-plugin-pipewire
 gst-plugins-bad
 gst-plugins-ugly
 gvfs
+gwenview
 haveged
 hdparm
 helix
