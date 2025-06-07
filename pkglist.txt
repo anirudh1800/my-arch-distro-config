@@ -4,6 +4,8 @@ alsa-firmware
 alsa-plugins
 alsa-utils
 amd-ucode
+android-emulator
+android-studio
 appmenu-gtk-module
 arc-gtk-theme-eos
 aspell
@@ -31,6 +33,7 @@ discover
 dmidecode
 dmraid
 dnsmasq
+docker-compose
 dosfstools
 downgrade
 dracut
@@ -58,7 +61,6 @@ extension-manager
 f2fs-tools
 ffmpegthumbnailer
 file-roller
-firefox
 firewalld
 flatpak-kcm
 gedit
@@ -155,6 +157,7 @@ nss-mdns
 ntfs-3g
 ntp
 ocean-sound-theme
+okular
 openssh
 oxygen
 oxygen-sounds
@@ -185,6 +188,7 @@ plasma5support
 plocate
 plymouth-kcm
 podman
+podman-compose
 polkit-kde-agent
 poppler-glib
 power-profiles-daemon
