@@ -9,7 +9,6 @@ android-studio
 appmenu-gtk-module
 arc-gtk-theme-eos
 aspell
-asusctl
 b43-fwcutter
 base
 base-devel
@@ -23,6 +22,10 @@ breeze
 breeze-gtk
 breeze-plymouth
 btrfs-progs
+cachyos-keyring
+cachyos-mirrorlist
+cachyos-v3-mirrorlist
+cachyos-v4-mirrorlist
 cantarell-fonts
 chromium
 code
@@ -62,6 +65,7 @@ exfatprogs
 extension-manager
 f2fs-tools
 ffmpegthumbnailer
+firefox
 firewalld
 flatpak-kcm
 geoclue
@@ -89,6 +93,7 @@ intellij-idea-community-edition
 inxi
 iptables
 iwd
+jdk17-openjdk
 jdk25-openjdk
 jfsutils
 jujutsu
@@ -98,6 +103,7 @@ kde-gtk-config
 kdecoration
 kdeplasma-addons
 kernel-install-for-dracut
+keyd
 kgamma
 kglobalacceld
 kinfocenter
@@ -127,6 +133,8 @@ lightdm-slick-greeter
 linux
 linux-firmware
 linux-headers
+linux-zen
+linux-zen-headers
 logrotate
 loupe
 lsb-release
@@ -143,6 +151,7 @@ mpv
 mtools
 nano
 nano-syntax-highlighting
+ncdu
 netctl
 network-manager-applet
 networkmanager
@@ -163,6 +172,7 @@ ocean-sound-theme
 okular
 openssh
 oxygen
+oxygen-icons-svg
 oxygen-sounds
 pacman-contrib
 pavucontrol
